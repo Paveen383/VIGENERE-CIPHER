@@ -74,3 +74,4 @@ int main() {
 <img width="1696" height="874" alt="image" src="https://github.com/user-attachments/assets/30c6fce8-ddc6-4a50-839e-2ab63e5d0314" />
 
 ## RESULT
+Thus the Vigenere Cipher algorithm was successfully implemented and the plaintext was encrypted and decrypted successfully.
